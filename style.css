@@ -113,6 +113,10 @@ img {
 
 /* FEATURES */
 .features-icon {
+  stroke: #087f5b;
+  width: 32px;
+  height: 32px;
+  margin-bottom:16px;
 }
 
 .features-title {
@@ -140,7 +144,7 @@ img {
 .testimonial-box h2 {
   margin-bottom: 24px;
   font-size: 24px;
-
+  
 }
 
 .testimonial-text {
@@ -177,6 +181,9 @@ h3 {
 }
 
 .chair-icon {
+  stroke: #087f5b;
+  width : 24px;
+  height : 24px;
 }
 
 .chair-price {
